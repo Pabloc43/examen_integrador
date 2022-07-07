@@ -1,3 +1,3 @@
 # examen_integrador
 
-Emanuel Espinel
+Emanuel
